@@ -1,6 +1,5 @@
 ---
 title: "Nicolò Margaritella"
-site: bookdown::bookdown_site
 ---
 
 Hello there!

@@ -13,4 +13,4 @@ RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
 BuildType: Website
-WebsitePath: /Users/nm256/Desktop/Git/NicMargaritella.github.io/docs
+WebsitePath: /Users/nm256/Desktop/Git/NicMargaritella.github.io
