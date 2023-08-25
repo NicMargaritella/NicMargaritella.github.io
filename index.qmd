@@ -4,6 +4,4 @@ title: "Nicolò Margaritella"
 
 Hello there!
 
-# Prova
-
-## Prova
+## Prova {.unnumbered}
